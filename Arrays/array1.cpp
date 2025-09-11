@@ -1,3 +1,4 @@
+//create an array and print 
 #include<iostream>
 using namespace std;
 int main(){

@@ -39,7 +39,7 @@ void mergeSort(int arr[],int si,int ei){
 
 void printArr(int arr[],int n){
     for(int i=0; i<n; i++){
-        cout<<arr[i]<<" ";
+        cout<<arr[i]<<",";
     }
     cout<<endl;
 }
